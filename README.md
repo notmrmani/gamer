@@ -12,7 +12,7 @@ Note: Kali-linux & Parrot OS user must be use root terminal.
 * `apt upgrade -y` 
 * `apt install git -y`
 * `cd $HOME`
-* `git clone https://github.com/mrmani280/gamer.git` 
+* `git clone https://github.com/notmrmani/gamer.git` 
 * `cd gamer` 
 * `chmod +x setup.sh` 
 * `bash setup.sh` 
